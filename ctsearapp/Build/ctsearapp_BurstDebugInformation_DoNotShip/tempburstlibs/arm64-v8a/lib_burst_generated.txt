@@ -1,0 +1,17 @@
+Library: G:\SLIIT\Year 04\Semester 02\Current Trends in SoAware Engineering (SE4010)\Assignment 3\Unity Projects\ctsearapp\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
+--platform=Android
+--backend=burst-llvm-18
+--target=ARMV8A_AARCH64
+--global-safety-checks-setting=Off
+--meta-data-generation=False
+--dump=Function
+--float-precision=Standard
+--target-framework=NetFramework
+--generate-link-xml=Temp\burst.link.xml
+--temp-folder=G:\SLIIT\Year 04\Semester 02\Current Trends in SoAware Engineering (SE4010)\Assignment 3\Unity Projects\ctsearapp\Temp\Burst
+--key-folder=G:/SLIIT/Year 04/Semester 02/Current Trends in SoAware Engineering (SE4010)/Assignment 3/Unity/2022.3.62f1/Editor/Data/PlaybackEngines/AndroidPlayer
+--decode-folder=G:\SLIIT\Year 04\Semester 02\Current Trends in SoAware Engineering (SE4010)\Assignment 3\Unity Projects\ctsearapp\Library\Burst
+--output=G:\SLIIT\Year 04\Semester 02\Current Trends in SoAware Engineering (SE4010)\Assignment 3\Unity Projects\ctsearapp\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
+--pdb-search-paths=Temp/ManagedSymbols/
+
+
